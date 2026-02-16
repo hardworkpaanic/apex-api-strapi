@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_how_we_works_kogda_czena_mo_zh_et_izmenitsya_tolko_po_soglasovaniyu_s",
+  "info": {
+    "displayName": "Когда цена МОЖЕТ измениться (только по согласованию):"
+  },
+  "options": {},
+  "attributes": {
+    "h3": {
+      "type": "string"
+    },
+    "content": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,95 @@
+{
+  "kind": "singleType",
+  "collectionName": "montazhs",
+  "info": {
+    "singularName": "montazh",
+    "pluralName": "montazhs",
+    "displayName": "Монтаж"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero": {
+      "type": "component",
+      "component": "shered.hero",
+      "repeatable": false
+    },
+    "data": {
+      "type": "component",
+      "component": "installation.afterherodata",
+      "repeatable": false
+    },
+    "why": {
+      "type": "component",
+      "component": "installation.pochemu-montazh-apex-eto-bezopasno",
+      "repeatable": false
+    },
+    "how": {
+      "type": "component",
+      "component": "installation.kak-prohodit-montazh-5-etapov",
+      "repeatable": false
+    },
+    "year": {
+      "type": "component",
+      "component": "installation.montazh-kruglyj-god-dazhe-zimoj",
+      "repeatable": false
+    },
+    "technoljgy": {
+      "type": "component",
+      "component": "installation.sravnenie-tehnologij",
+      "repeatable": false
+    },
+    "our": {
+      "type": "component",
+      "component": "installation.nashi-montazhniki-sertificzirovannye-professionaly",
+      "repeatable": false
+    },
+    "nodes": {
+      "type": "component",
+      "component": "installation.uzly-krepleniya-i-tehnicheskie-resheniya",
+      "repeatable": false
+    },
+    "video": {
+      "type": "component",
+      "component": "material.video",
+      "repeatable": false
+    },
+    "system": {
+      "type": "component",
+      "component": "installation.tryohurovnevaya-sistema-kontrolya-kachestva",
+      "repeatable": false
+    },
+    "instruments": {
+      "type": "component",
+      "component": "installation.instrumenty-kontrolya-kachestva",
+      "repeatable": false
+    },
+    "statistics": {
+      "type": "component",
+      "component": "installation.statistika",
+      "repeatable": false
+    },
+    "garantee": {
+      "type": "component",
+      "component": "installation.garantii-na-montazh-i-material",
+      "repeatable": false
+    },
+    "whatg": {
+      "type": "component",
+      "component": "installation.chto-vhodit-v-garantijnoe-obsluzhivanie",
+      "repeatable": false
+    },
+    "projects": {
+      "type": "component",
+      "component": "installation.projects",
+      "repeatable": false
+    },
+    "form": {
+      "type": "component",
+      "component": "shered.forma",
+      "repeatable": false
+    }
+  }
+}

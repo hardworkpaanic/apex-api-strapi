@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shered_links",
+  "info": {
+    "displayName": "Ссылка"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

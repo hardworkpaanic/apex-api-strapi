@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_shered_levels",
+  "info": {
+    "displayName": "level"
+  },
+  "options": {},
+  "attributes": {
+    "h4": {
+      "type": "string"
+    },
+    "number": {
+      "type": "string"
+    },
+    "content": {
+      "type": "blocks"
+    },
+    "content2": {
+      "type": "blocks"
+    },
+    "result": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

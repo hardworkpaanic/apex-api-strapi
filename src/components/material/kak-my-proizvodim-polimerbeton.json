@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_material_kak_my_proizvodim_polimerbeton_s",
+  "info": {
+    "displayName": "Как мы производим полимербетон?"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "buttonText": {
+      "type": "string"
+    },
+    "stages": {
+      "type": "component",
+      "component": "shered.tekst-tekst-tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

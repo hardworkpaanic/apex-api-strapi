@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_installation_instrumenty_kontrolya_kachestva",
+  "info": {
+    "displayName": "Инструменты контроля качества"
+  },
+  "options": {},
+  "attributes": {
+    "h4": {
+      "type": "string"
+    },
+    "list": {
+      "type": "component",
+      "component": "shered.tekst",
+      "repeatable": true
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

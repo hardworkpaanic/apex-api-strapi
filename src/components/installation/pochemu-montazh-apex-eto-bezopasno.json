@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_installation_pochemu_montazh_apex_eto_bezopasno",
+  "info": {
+    "displayName": "Почему монтаж APEX — это безопасно"
+  },
+  "options": {},
+  "attributes": {
+    "points": {
+      "type": "component",
+      "component": "shered.tekst-tekst-tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

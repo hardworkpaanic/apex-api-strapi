@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shered_materials",
+  "info": {
+    "displayName": "material"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "characteristic": {
+      "type": "component",
+      "component": "shered.tekst-tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_about_tryohurovnevaya_sistema_kontrolya_kachestva",
+  "info": {
+    "displayName": "Трёхуровневая система контроля качества"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "text": {
+      "type": "blocks"
+    },
+    "text2": {
+      "type": "blocks"
+    },
+    "text3": {
+      "type": "blocks"
+    },
+    "text4": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

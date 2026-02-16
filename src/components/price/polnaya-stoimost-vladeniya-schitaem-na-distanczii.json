@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_price_polnaya_stoimost_vladeniya_schitaem_na_distanczii",
+  "info": {
+    "displayName": "Полная стоимость владения — считаем на дистанции"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "table": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "span": {
+      "type": "blocks"
+    },
+    "listitems": {
+      "type": "component",
+      "component": "shered.tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

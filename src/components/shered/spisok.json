@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_shered_spisok",
+  "info": {
+    "displayName": "список"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "listitem": {
+      "type": "component",
+      "component": "shered.tekst",
+      "repeatable": true
+    },
+    "list": {
+      "type": "component",
+      "component": "shered.advantage",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

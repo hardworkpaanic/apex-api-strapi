@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_shered_headers",
+  "info": {
+    "displayName": "Шапка"
+  },
+  "options": {},
+  "attributes": {
+    "logo": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "navItems": {
+      "type": "component",
+      "component": "shered.link",
+      "repeatable": true
+    },
+    "buttonText": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

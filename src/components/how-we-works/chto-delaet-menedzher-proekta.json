@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_how_we_works_chto_delaet_menedzher_proekta_s",
+  "info": {
+    "displayName": "Что делает менеджер проекта?"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "text1": {
+      "type": "blocks"
+    },
+    "text2": {
+      "type": "blocks"
+    },
+    "text3": {
+      "type": "blocks"
+    },
+    "text4": {
+      "type": "blocks"
+    },
+    "text5": {
+      "type": "blocks"
+    },
+    "text6": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_installation_tryohurovnevaya_sistema_kontrolya_kachestva",
+  "info": {
+    "displayName": "Трёхуровневая система контроля качества"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "levels": {
+      "type": "component",
+      "component": "shered.level",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

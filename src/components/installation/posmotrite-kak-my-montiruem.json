@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_installation_posmotrite_kak_my_montiruem",
+  "info": {
+    "displayName": "Посмотрите, как мы монтируем"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "video": {
+      "type": "component",
+      "component": "shered.video",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

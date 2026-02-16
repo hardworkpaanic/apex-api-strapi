@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_material_additional_features",
+  "info": {
+    "displayName": "additionalFeatures"
+  },
+  "options": {},
+  "attributes": {
+    "h3": {
+      "type": "string"
+    },
+    "additionalFeatures": {
+      "type": "json"
+    },
+    "butonText": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

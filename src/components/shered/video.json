@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_shered_videos",
+  "info": {
+    "displayName": "Видео"
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

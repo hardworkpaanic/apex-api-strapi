@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_installation_chto_vhodit_v_garantijnoe_obsluzhivanie",
+  "info": {
+    "displayName": "Что входит в гарантийное обслуживание"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "iamge": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "text1": {
+      "type": "blocks"
+    },
+    "text2": {
+      "type": "blocks"
+    },
+    "text3": {
+      "type": "blocks"
+    },
+    "text4": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

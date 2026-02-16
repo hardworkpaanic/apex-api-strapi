@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_how_we_works_vy_kontroliruete_kazhdyj_etap_proekta",
+  "info": {
+    "displayName": "Вы контролируете каждый этап проекта"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "list1": {
+      "type": "component",
+      "component": "shered.tekst-tekst",
+      "repeatable": true
+    },
+    "h3": {
+      "type": "string"
+    },
+    "list2": {
+      "type": "component",
+      "component": "shered.tekst-tekst-tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

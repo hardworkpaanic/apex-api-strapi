@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_how_we_works_vy_kontroliruete_kazhdyj_etap",
+  "info": {
+    "displayName": "Вы контролируете каждый этап"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "list": {
+      "type": "component",
+      "component": "shered.tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

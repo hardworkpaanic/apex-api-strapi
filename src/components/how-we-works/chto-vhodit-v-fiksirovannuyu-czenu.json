@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_how_we_works_chto_vhodit_v_fiksirovannuyu_czenu",
+  "info": {
+    "displayName": "Что входит в фиксированную цену"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "content": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

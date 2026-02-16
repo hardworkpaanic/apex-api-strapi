@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_price_dlya_yuridicheskih_licz",
+  "info": {
+    "displayName": "Для юридических лиц"
+  },
+  "options": {},
+  "attributes": {
+    "h4": {
+      "type": "string"
+    },
+    "listitems": {
+      "type": "component",
+      "component": "shered.tekst",
+      "repeatable": true
+    },
+    "butonText": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

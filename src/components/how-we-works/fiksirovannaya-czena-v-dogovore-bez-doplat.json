@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_how_we_works_fiksirovannaya_czena_v_dogovore_bez_doplat_s",
+  "info": {
+    "displayName": "Фиксированная цена в договоре. Без доплат."
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description1": {
+      "type": "text"
+    },
+    "description2": {
+      "type": "text"
+    },
+    "description3": {
+      "type": "text"
+    },
+    "what": {
+      "type": "component",
+      "component": "how-we-works.chto-vhodit-v-fiksirovannuyu-czenu",
+      "repeatable": false
+    },
+    "when": {
+      "type": "component",
+      "component": "how-we-works.kogda-czena-mo-zh-et-izmenitsya-tolko-po-soglasovaniyu",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

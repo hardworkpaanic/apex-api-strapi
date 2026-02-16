@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_installation_afterherodata",
+  "info": {
+    "displayName": "afterherodata"
+  },
+  "options": {},
+  "attributes": {
+    "data": {
+      "type": "component",
+      "component": "shered.tekst-tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

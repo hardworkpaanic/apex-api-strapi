@@ -1,0 +1,70 @@
+{
+  "kind": "singleType",
+  "collectionName": "materials",
+  "info": {
+    "singularName": "material",
+    "pluralName": "materials",
+    "displayName": "Материал"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero": {
+      "type": "component",
+      "component": "shered.hero",
+      "repeatable": false
+    },
+    "whatisthis": {
+      "type": "component",
+      "component": "material.chto-takoe-polimerbeton",
+      "repeatable": false
+    },
+    "video": {
+      "type": "component",
+      "component": "shered.video",
+      "repeatable": false
+    },
+    "videotext": {
+      "type": "component",
+      "component": "material.video",
+      "repeatable": false
+    },
+    "characteristics": {
+      "type": "component",
+      "component": "material.tehnicheskie-harakteristiki-polimerbetona",
+      "repeatable": false
+    },
+    "adFeatures": {
+      "type": "component",
+      "component": "material.additional-features",
+      "repeatable": false
+    },
+    "why": {
+      "type": "component",
+      "component": "material.pochemu-polimerbeton-luchshe-drugih-materialov",
+      "repeatable": false
+    },
+    "economy": {
+      "type": "component",
+      "component": "material.realnaya-ekonomiya-na-distanczii",
+      "repeatable": false
+    },
+    "production": {
+      "type": "component",
+      "component": "material.kak-my-proizvodim-polimerbeton",
+      "repeatable": false
+    },
+    "cer": {
+      "type": "component",
+      "component": "material.sertifikaty-kachestva-i-protokoly-ispytanij",
+      "repeatable": false
+    },
+    "form": {
+      "type": "component",
+      "component": "shered.forma",
+      "repeatable": false
+    }
+  }
+}

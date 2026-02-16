@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_price_udobnye_sposoby_oplaty",
+  "info": {
+    "displayName": "Удобные способы оплаты"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "description2": {
+      "type": "string"
+    },
+    "smartpayment": {
+      "type": "component",
+      "component": "price.umnaya-poetapnaya-oplata",
+      "repeatable": false
+    },
+    "yourface": {
+      "type": "component",
+      "component": "price.dlya-yuridicheskih-licz",
+      "repeatable": false
+    },
+    "stages": {
+      "type": "component",
+      "component": "price.etapy-oplaty-za-montazh",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

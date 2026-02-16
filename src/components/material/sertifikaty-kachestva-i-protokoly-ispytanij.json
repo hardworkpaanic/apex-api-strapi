@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_material_sertifikaty_kachestva_i_protokoly_ispytanij",
+  "info": {
+    "displayName": "Сертификаты качества и протоколы испытаний"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "sertificates": {
+      "type": "component",
+      "component": "shered.advantage",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

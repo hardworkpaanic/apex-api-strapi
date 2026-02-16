@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_shered_kartinka_tekst_tekst_tekst",
+  "info": {
+    "displayName": "картинка текст текст текст"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "text1": {
+      "type": "string"
+    },
+    "text2": {
+      "type": "text"
+    },
+    "text3": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

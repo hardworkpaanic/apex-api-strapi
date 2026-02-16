@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_how_we_works_etapy",
+  "info": {
+    "displayName": "Этапы"
+  },
+  "options": {},
+  "attributes": {
+    "stages": {
+      "type": "component",
+      "component": "how-we-works.etap-komponent",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

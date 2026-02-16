@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_about_v_czifrah_fakty_s",
+  "info": {
+    "displayName": "в цифрах —  факты,"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "facts": {
+      "type": "component",
+      "component": "shered.tekst-tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_shered_step_installations",
+  "info": {
+    "displayName": "stepInstallation"
+  },
+  "options": {},
+  "attributes": {
+    "number": {
+      "type": "string"
+    },
+    "title": {
+      "type": "text"
+    },
+    "list": {
+      "type": "blocks"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

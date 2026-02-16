@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shered_questions",
+  "info": {
+    "displayName": "question"
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "component",
+      "component": "shered.tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

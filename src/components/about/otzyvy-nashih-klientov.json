@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_about_otzyvy_nashih_klientov",
+  "info": {
+    "displayName": "Отзывы наших клиентов"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "reviews": {
+      "type": "component",
+      "component": "shered.tekst-tekst-tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

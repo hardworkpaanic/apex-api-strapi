@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_price_vse_vklyucheno_v_stoimost_s",
+  "info": {
+    "displayName": "Все включено в стоимость:"
+  },
+  "options": {},
+  "attributes": {
+    "h3": {
+      "type": "string"
+    },
+    "point": {
+      "type": "component",
+      "component": "shered.tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

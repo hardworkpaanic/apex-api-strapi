@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_material_pochemu_polimerbeton_luchshe_drugih_materialov_s",
+  "info": {
+    "displayName": "Почему полимербетон лучше других материалов?"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "table": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

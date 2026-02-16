@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_about_komanda",
+  "info": {
+    "displayName": "Команда"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "people": {
+      "type": "component",
+      "component": "shered.kartinka-tekst-tekst-tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_shered_forma",
+  "info": {
+    "displayName": "Форма"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "buttonText": {
+      "type": "string"
+    },
+    "succsessText": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

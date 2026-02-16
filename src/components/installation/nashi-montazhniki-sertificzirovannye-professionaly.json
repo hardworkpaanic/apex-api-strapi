@@ -1,0 +1,60 @@
+{
+  "collectionName": "components_installation_nashi_montazhniki_sertificzirovannye_professionaly",
+  "info": {
+    "displayName": "Наши монтажники — сертифицированные профессионалы"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "list": {
+      "type": "component",
+      "component": "shered.tekst",
+      "repeatable": true
+    },
+    "image1": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "text1": {
+      "type": "blocks"
+    },
+    "image2": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "text2": {
+      "type": "blocks"
+    },
+    "image3": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "text3": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

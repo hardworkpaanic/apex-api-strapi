@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_installation_garantii_na_montazh_i_material",
+  "info": {
+    "displayName": "Гарантии на монтаж и материал"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "table": {
+      "type": "json"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_material_chto_takoe_polimerbeton_s",
+  "info": {
+    "displayName": "Что такое полимербетон?"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

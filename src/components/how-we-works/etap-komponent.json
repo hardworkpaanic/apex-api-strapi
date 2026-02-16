@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_how_we_works_etap_komponent",
+  "info": {
+    "displayName": "Этап компонент"
+  },
+  "options": {},
+  "attributes": {
+    "number": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "importent": {
+      "type": "text"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "questions": {
+      "type": "component",
+      "component": "shered.question",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

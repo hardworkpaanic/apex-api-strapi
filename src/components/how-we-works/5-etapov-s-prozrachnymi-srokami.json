@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_how_we_works_5_etapov_s_prozrachnymi_srokami",
+  "info": {
+    "displayName": "5 этапов с прозрачными сроками"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "de": {
+      "type": "text"
+    },
+    "stages": {
+      "type": "component",
+      "component": "shered.tekst-tekst-tekst",
+      "repeatable": true
+    },
+    "stages2": {
+      "type": "component",
+      "component": "how-we-works.etapy",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

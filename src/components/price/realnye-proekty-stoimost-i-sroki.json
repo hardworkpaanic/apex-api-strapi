@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_price_realnye_proekty_stoimost_i_sroki",
+  "info": {
+    "displayName": "Реальные проекты — стоимость и сроки"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "butonText": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

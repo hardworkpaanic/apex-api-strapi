@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_how_we_works_odin_menedzher_vedyot_vash_proekt_ot_nachala_do_koncza",
+  "info": {
+    "displayName": "Один менеджер ведёт ваш проект от начала до конца"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description1": {
+      "type": "text"
+    },
+    "description2": {
+      "type": "text"
+    },
+    "description3": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_how_we_works_struktura_oplaty",
+  "info": {
+    "displayName": "Структура оплаты"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "item1": {
+      "type": "blocks"
+    },
+    "item2": {
+      "type": "blocks"
+    },
+    "item3": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

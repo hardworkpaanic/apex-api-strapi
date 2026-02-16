@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_price_investicziya_v_arhitekturu_prozrachno_i_chestno",
+  "info": {
+    "displayName": "Инвестиция в архитектуру — прозрачно и честно"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "h4": {
+      "type": "string"
+    },
+    "p": {
+      "type": "text"
+    },
+    "table": {
+      "type": "json"
+    }
+  },
+  "config": {}
+}

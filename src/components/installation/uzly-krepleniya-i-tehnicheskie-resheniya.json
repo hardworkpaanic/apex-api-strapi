@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_installation_uzly_krepleniya_i_tehnicheskie_resheniya",
+  "info": {
+    "displayName": "Узлы крепления и технические решения"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "content": {
+      "type": "blocks"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

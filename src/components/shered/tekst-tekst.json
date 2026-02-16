@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shered_tekst_tekst",
+  "info": {
+    "displayName": "Текст текст"
+  },
+  "options": {},
+  "attributes": {
+    "text1": {
+      "type": "string"
+    },
+    "text2": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_material_video",
+  "info": {
+    "displayName": "Видео"
+  },
+  "options": {},
+  "attributes": {
+    "texts": {
+      "type": "component",
+      "component": "shered.tekst-tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

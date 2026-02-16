@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_material_realnaya_ekonomiya_na_distanczii",
+  "info": {
+    "displayName": "Реальная экономия на дистанции"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "materilas": {
+      "type": "component",
+      "component": "shered.material",
+      "repeatable": true
+    },
+    "final": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,65 @@
+{
+  "kind": "singleType",
+  "collectionName": "kak_my_rabotaems",
+  "info": {
+    "singularName": "kak-my-rabotaem",
+    "pluralName": "kak-my-rabotaems",
+    "displayName": "Как мы работаем"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero": {
+      "type": "component",
+      "component": "shered.hero",
+      "repeatable": false
+    },
+    "heroData": {
+      "type": "component",
+      "component": "installation.afterherodata",
+      "repeatable": false
+    },
+    "control": {
+      "type": "component",
+      "component": "how-we-works.vy-kontroliruete-kazhdyj-etap",
+      "repeatable": false
+    },
+    "stages": {
+      "type": "component",
+      "component": "how-we-works.5-etapov-s-prozrachnymi-srokami",
+      "repeatable": false
+    },
+    "yourcontrol": {
+      "type": "component",
+      "component": "how-we-works.vy-kontroliruete-kazhdyj-etap-proekta",
+      "repeatable": false
+    },
+    "one": {
+      "type": "component",
+      "component": "how-we-works.odin-menedzher-vedyot-vash-proekt-ot-nachala-do-koncza",
+      "repeatable": false
+    },
+    "what": {
+      "type": "component",
+      "component": "how-we-works.chto-delaet-menedzher-proekta",
+      "repeatable": false
+    },
+    "price": {
+      "type": "component",
+      "component": "how-we-works.fiksirovannaya-czena-v-dogovore-bez-doplat",
+      "repeatable": false
+    },
+    "structure": {
+      "type": "component",
+      "component": "how-we-works.struktura-oplaty",
+      "repeatable": false
+    },
+    "form": {
+      "type": "component",
+      "component": "shered.forma",
+      "repeatable": false
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_about_nashe_proizvodstvo_tehnologii_i_moshhnosti",
+  "info": {
+    "displayName": "Наше производство — технологии и мощности"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "data": {
+      "type": "json"
+    }
+  },
+  "config": {}
+}

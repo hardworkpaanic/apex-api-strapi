@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_about_chto_otlichaet_nas_ot_drugih",
+  "info": {
+    "displayName": "Что отличает нас от других"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "diffrents": {
+      "type": "component",
+      "component": "shered.kartinka-tekst-tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

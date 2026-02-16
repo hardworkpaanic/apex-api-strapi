@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_about_o_kompanii",
+  "info": {
+    "displayName": "О компании"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "text": {
+      "type": "text"
+    },
+    "text2": {
+      "type": "text"
+    },
+    "text3": {
+      "type": "text"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "ourmission": {
+      "type": "string"
+    },
+    "p1": {
+      "type": "text"
+    },
+    "slogan": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

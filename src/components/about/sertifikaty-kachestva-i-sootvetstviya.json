@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_about_sertifikaty_kachestva_i_sootvetstviya",
+  "info": {
+    "displayName": "Сертификаты качества и соответствия"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "buttonText": {
+      "type": "string"
+    },
+    "sertificates": {
+      "type": "component",
+      "component": "shered.advantage",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

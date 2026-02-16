@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_about_vakansii",
+  "info": {
+    "displayName": "Вакансии"
+  },
+  "options": {},
+  "attributes": {
+    "h3": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "list": {
+      "type": "blocks"
+    },
+    "buttonText": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

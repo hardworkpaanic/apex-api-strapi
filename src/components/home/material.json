@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_home_materials",
+  "info": {
+    "displayName": "Материал"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "mobileImage": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "h2": {
+      "type": "string"
+    },
+    "blockquote": {
+      "type": "text"
+    },
+    "structure": {
+      "type": "text"
+    },
+    "ad": {
+      "type": "component",
+      "component": "shered.advantage",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

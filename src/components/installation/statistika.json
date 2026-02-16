@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_installation_statistika",
+  "info": {
+    "displayName": "Статистика"
+  },
+  "options": {},
+  "attributes": {
+    "h4": {
+      "type": "string"
+    },
+    "list": {
+      "type": "component",
+      "component": "shered.tekst",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

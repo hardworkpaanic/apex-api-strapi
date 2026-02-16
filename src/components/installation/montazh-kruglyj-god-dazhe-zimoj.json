@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_installation_montazh_kruglyj_god_dazhe_zimoj_s",
+  "info": {
+    "displayName": "Монтаж круглый год. Даже зимой."
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "description2": {
+      "type": "text"
+    },
+    "data": {
+      "type": "component",
+      "component": "shered.tekst-tekst",
+      "repeatable": true
+    },
+    "statistics": {
+      "type": "blocks"
+    },
+    "limitations": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,60 @@
+{
+  "kind": "singleType",
+  "collectionName": "prices",
+  "info": {
+    "singularName": "price",
+    "pluralName": "prices",
+    "displayName": "Цены"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero": {
+      "type": "component",
+      "component": "shered.hero",
+      "repeatable": false
+    },
+    "investment": {
+      "type": "component",
+      "component": "price.investicziya-v-arhitekturu-prozrachno-i-chestno",
+      "repeatable": false
+    },
+    "PricePointsFactors": {
+      "type": "component",
+      "component": "price.chto-vliyaet-na-stoimost-proekta",
+      "repeatable": false
+    },
+    "allInclusive": {
+      "type": "component",
+      "component": "price.vse-vklyucheno-v-stoimost",
+      "repeatable": false
+    },
+    "pricefactors": {
+      "type": "component",
+      "component": "price.chto-vliyaet-na-stoimost-proekta",
+      "repeatable": false
+    },
+    "projects": {
+      "type": "component",
+      "component": "price.realnye-proekty-stoimost-i-sroki",
+      "repeatable": true
+    },
+    "fullPrice": {
+      "type": "component",
+      "component": "price.polnaya-stoimost-vladeniya-schitaem-na-distanczii",
+      "repeatable": false
+    },
+    "payment": {
+      "type": "component",
+      "component": "price.udobnye-sposoby-oplaty",
+      "repeatable": false
+    },
+    "form": {
+      "type": "component",
+      "component": "shered.forma",
+      "repeatable": false
+    }
+  }
+}

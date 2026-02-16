@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_installation_kak_prohodit_montazh_5_etapov",
+  "info": {
+    "displayName": "Как проходит монтаж: 5 этапов"
+  },
+  "options": {},
+  "attributes": {
+    "h2": {
+      "type": "string"
+    },
+    "totalInstallationTime": {
+      "type": "text"
+    },
+    "totalInstallationTime2": {
+      "type": "text"
+    },
+    "Important": {
+      "type": "text"
+    },
+    "stages": {
+      "type": "component",
+      "component": "shered.step-installation",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

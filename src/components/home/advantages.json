@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_home_advantages",
+  "info": {
+    "displayName": "Преемузества"
+  },
+  "options": {},
+  "attributes": {
+    "advantages": {
+      "type": "component",
+      "component": "shered.advantage",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

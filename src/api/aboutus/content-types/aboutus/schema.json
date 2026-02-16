@@ -1,0 +1,75 @@
+{
+  "kind": "singleType",
+  "collectionName": "aboutuss",
+  "info": {
+    "singularName": "aboutus",
+    "pluralName": "aboutuss",
+    "displayName": "О нас"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero": {
+      "type": "component",
+      "component": "shered.hero",
+      "repeatable": false
+    },
+    "aboutus": {
+      "type": "component",
+      "component": "about.o-kompanii",
+      "repeatable": false
+    },
+    "facts": {
+      "type": "component",
+      "component": "about.v-czifrah-fakty",
+      "repeatable": false
+    },
+    "diffrents": {
+      "type": "component",
+      "component": "about.chto-otlichaet-nas-ot-drugih",
+      "repeatable": false
+    },
+    "team": {
+      "type": "component",
+      "component": "about.komanda",
+      "repeatable": false
+    },
+    "ourins": {
+      "type": "component",
+      "component": "about.nashe-proizvodstvo-tehnologii-i-moshhnosti",
+      "repeatable": false
+    },
+    "control": {
+      "type": "component",
+      "component": "about.tryohurovnevaya-sistema-kontrolya-kachestva",
+      "repeatable": false
+    },
+    "cervicates": {
+      "type": "component",
+      "component": "about.sertifikaty-kachestva-i-sootvetstviya",
+      "repeatable": false
+    },
+    "reviews": {
+      "type": "component",
+      "component": "about.otzyvy-nashih-klientov",
+      "repeatable": false
+    },
+    "partneram": {
+      "type": "component",
+      "component": "about.partneram",
+      "repeatable": false
+    },
+    "vakansee": {
+      "type": "component",
+      "component": "about.vakansii",
+      "repeatable": false
+    },
+    "form": {
+      "type": "component",
+      "component": "shered.forma",
+      "repeatable": false
+    }
+  }
+}
