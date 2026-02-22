@@ -862,6 +862,20 @@ export interface SheredAdvantage extends Struct.ComponentSchema {
   };
 }
 
+export interface SheredComent extends Struct.ComponentSchema {
+  collectionName: 'components_shered_coments';
+  info: {
+    displayName: 'coment';
+  };
+  attributes: {
+    admin_user: Schema.Attribute.Relation<'oneToOne', 'admin::user'>;
+    content: Schema.Attribute.Text;
+    type: Schema.Attribute.Enumeration<
+      ['default', 'successes', 'destructive', 'info']
+    >;
+  };
+}
+
 export interface SheredEkosistemaSpisokKomponent
   extends Struct.ComponentSchema {
   collectionName: 'components_shered_ekosistema_spisok_komponent';
@@ -1136,6 +1150,7 @@ declare module '@strapi/strapi' {
       'price.umnaya-poetapnaya-oplata': PriceUmnayaPoetapnayaOplata;
       'price.vse-vklyucheno-v-stoimost': PriceVseVklyuchenoVStoimost;
       'shered.advantage': SheredAdvantage;
+      'shered.coment': SheredComent;
       'shered.ekosistema-spisok-komponent': SheredEkosistemaSpisokKomponent;
       'shered.forma': SheredForma;
       'shered.header': SheredHeader;

@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_shered_coments",
+  "info": {
+    "displayName": "coment"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "text"
+    },
+    "admin_user": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "admin::user"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "default",
+        "successes",
+        "destructive",
+        "info"
+      ]
+    }
+  },
+  "config": {}
+}

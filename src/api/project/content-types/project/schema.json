@@ -1,0 +1,57 @@
+{
+  "kind": "collectionType",
+  "collectionName": "projects",
+  "info": {
+    "singularName": "project",
+    "pluralName": "projects",
+    "displayName": "project"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "characteristics": {
+      "type": "blocks"
+    },
+    "content": {
+      "type": "blocks"
+    },
+    "date": {
+      "type": "date"
+    },
+    "gallery": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "list": {
+      "type": "component",
+      "component": "shered.tekst-tekst-tekst",
+      "repeatable": true
+    },
+    "coment": {
+      "type": "component",
+      "component": "shered.coment",
+      "repeatable": true
+    }
+  }
+}
