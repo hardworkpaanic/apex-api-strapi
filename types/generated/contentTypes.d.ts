@@ -831,6 +831,7 @@ export interface ApiProjectProject extends Struct.CollectionTypeSchema {
     draftAndPublish: true;
   };
   attributes: {
+    buttonText: Schema.Attribute.String;
     characteristics: Schema.Attribute.Blocks;
     coment: Schema.Attribute.Component<'shered.coment', true>;
     content: Schema.Attribute.Blocks;
